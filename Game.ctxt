@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment1.params=evt
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ paintOffScreen(java.awt.Graphics)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ newBlock()
+comment6.params=
+comment6.target=void\ end()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

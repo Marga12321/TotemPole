@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TotemPole</label>
+		<id>2</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>TotemPole.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TotemPole.jcp</path>
+		</project>
+	</projects>
+</workspace>

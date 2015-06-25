@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=xIn\ widthIn\ yIn\ imageNameIn
+comment0.target=Block(int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=boolean\ scroll()
+comment3.params=otherX\ otherX2
+comment3.target=void\ resize(int,\ int)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=
+comment6.target=int\ getX2()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=newY
+comment8.target=void\ setY(int)
+comment9.params=
+comment9.target=java.awt.Image\ getImage()
+numComments=10

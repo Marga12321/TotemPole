@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GuiTest4()
+comment0.text=Creates\ a\ new\ instance\ of\ gui_test\ -\ sets\ up\ GUI
+comment1.params=evt
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ This\ is\ the\ graphics\ demo\ section.\ \ When\ you\ want\ to\ use\r\n\ any\ methods\ of\ the\ Graphics\ class,\ you\ need\ to\ call\ the\r\n\ Component\ method\ paint(),\ which\ takes\ a\ Graphics\ object\r\n\ as\ an\ argument.\ \ The\ run-time\ system\ is\ in\ control\ of\ when\r\n\ paint()\ executes,\ not\ the\ programmer,\ because\ drawing\ graphics\r\n\ is\ "event-driven"\ (e.g.\ when\ a\ window\ is\ covered\ or\ uncovered).\r\n\ If\ the\ programmer\ needs\ to\ call\ paint(),\ the\ way\ to\ do\ that\ is\ by\ calling\ the\ method\r\n\ repaint()\ instead.\ \ (See\ the\ use\ of\ repaint()\ in\ GuiTest3.)\r\n\r\n\ Here\ are\ just\ some\ of\ the\ Graphics\ methods\:\r\n\ \ -\ public\ void\ setColor\ (Color\ c)\r\n\t\t\t//\ sets\ the\ current\ color\ -\ see\ Color\ class\ for\r\n\t\t\t//\ available\ predefined\ colors\r\n\t-\ public\ void\ drawLine(int\ x1,\ int\ y1,\ int\ x2,\ int\ y2)\r\n\t\t\t//\ draws\ line\ between\ (x1,\ y1)\ and\ (x2,\ y2)\r\n\ \ -\ public\ void\ drawRect\ (int\ x,\ int\ y,\ int\ width,\ int\ height)\r\n\t\t\t//\ draws\ rectangle\ with\ top\ left\ corner\ at\ (x,y)\r\n\ \ -\ public\ void\ fillRect\ (int\ x,\ int\ y,\ int\ width,\ int\ height)\r\n\t\t\t//\ draws\ a\ solid\ rectangle\ with\ top\ left\ corner\ at\ (x,y)\r\n\ \ -\ public\ void\ drawOval\ (int\ x,\ int\ y,\ int\ width,\ int\ height)\r\n\t\t\t//\ draws\ oval\ in\ current\ color\ with\ specified\ width\r\n\t\t\t//\ and\ height;\ bounding\ rectangle's\ top\ left\ corner\r\n\t\t\t//\ is\ at\ (x,y)\ and\ oval\ touches\ all\ sides\ of\ bounding\r\n\t\t\t//\ rectangle\r\n\t-\ public\ void\ fillOval\ (int\ x,\ int\ y,\ int\ width,\ int\ height)\r\n\t\t\t//\ see\ drawOval\r\n\t-\ public\ void\ drawImage\ (Image\ img,\ int\ x,\ int\ y,\ ImageObserver\ observer)\r\n\t\t\t//\ draws\ image\ loaded\ from\ a\ GIF,\ JPEG\ or\ PNG\ file\ -\ upper\r\n\t\t\t//\ left\ corner\ at\ (x,\ y)\ -\ usually\ make\ 'observer'\ be\ 'this'\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

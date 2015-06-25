@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GuiTest3()
+comment0.text=Creates\ a\ new\ instance\ of\ GuiTest3
+comment1.params=evt
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=4
